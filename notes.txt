@@ -1,0 +1,5 @@
+##Container & Network Requests##
+
+    1\ Request from container to www
+    2\  Request from container to host machine 
+    3\ Request from container to an other container 
